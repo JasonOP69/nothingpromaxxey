@@ -1,0 +1,8 @@
+[build]
+  publish = "blox.gifts"
+  command = "echo 'No build step required'"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
