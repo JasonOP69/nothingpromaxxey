@@ -1,5 +1,5 @@
 [build]
-  publish = "blox.gifts"
+  publish = "public"
   command = "echo 'No build step required'"
 
 [[redirects]]
